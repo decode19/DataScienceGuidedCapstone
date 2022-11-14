@@ -1,1 +1,71 @@
 
+Guided Capstone Project Overview + Context
+Your client is Big Mountain Resort, a ski resort located in Montana. Big Mountain Resort
+offers spectacular views of Glacier National Park and Flathead National Forest, with
+access to 105 trails. Every year about 350,000 people ski or snowboard at Big Mountain.
+This mountain can accommodate skiers and riders of all levels and abilities.
+These are serviced by 11 lifts, 2 T-bars, and 1 magic carpet for novice skiers. The
+longest run is named Hellfire and is 3.3 miles in length. The base elevation is 4,464 ft,
+and the summit is 6,817 ft with a vertical drop of 2,353 ft.
+Big Mountain Resort has recently installed an additional chair lift to help increase the
+distribution of visitors across the mountain. This additional chair increases their
+operating costs by $1,540,000 this season.
+The resort's pricing strategy has been to charge a premium above the average price of
+resorts in its market segment. They know there are limitations to this approach. There's
+a suspicion that Big Mountain is not capitalizing on its facilities as much as it could.
+Basing their pricing on just the market average does not provide the business with a
+good sense of how important some facilities are compared to others. This hampers
+investment strategy. You are part of a new data science team brought in to implement a
+more data-driven business strategy. The business wants some guidance on how to
+select a better value for their ticket price. They are also considering a number of
+changes that they hope will either cut costs without undermining the ticket price or will
+support an even higher ticket price.
+Problem Statement Worksheet Sections
+What is the business problem you're investigating and what hypothesis can be made to
+support the business outcome?
+Tip: Review the last paragraph of the overview and generate ideas about how to
+increase revenue for the resort. Once you have an idea or two, use the data overview
+provided below to determine if your idea can be evaluated and supported by these data.
+Keep in mind that this data contains information from 330 resorts in the US that can be
+considered part of the same market share and we have these same data columns for
+Big Mountain Resort as well.
+Write your response in your problem statement worksheet.
+Context
+Here is where we define our business initiative to solve the problem the business wants
+to deal with.
+Write your response in your problem statement worksheet.
+Criteria for success
+This is a key step in any business problem or data science project. You should know
+what the outcome expectations are, and be able to communicate them clearly to all
+involved stakeholders in order to succeed. In the absence of clearly defined success
+criteria and scope, it can be difficult to identify when the project is complete.
+Write your response in your problem statement worksheet.
+Scope of solution space
+The solution space provides more details about the tasks you will complete to reach the
+solution.
+Write your response in your problem statement worksheet.
+Constraints
+The constraints section helps you, the data scientist, communicate anticipated conflict
+in implementing recommendations or findings of the project. Take a moment to
+consider what potential issues could arise when presenting your recommendations to
+the key stakeholders.
+Write your response in your problem statement worksheet.
+Stakeholders
+Identifying the key stakeholders in your project motivates the trajectory of your work
+and gives you access to key insights and data to support your analysis. Mapping out all
+the people with vested interests in your project outcome will help you build the network
+needed to complete the project, as well as provide an audience to address when writing
+your data story.
+In this project, you're working directly with the Director of Operations, Jimmy Blackburn,
+and he has connected you with Alesha Eisen, the Database Manager. These are you're
+only two contacts for this project.
+Write your response in your problem statement worksheet.
+Data Source(s)
+Gaining access to the proper data sources can be difficult — perhaps you need a
+specific user level access granted to a SQL database or an S3 bucket. In this example,
+you’ll work with a single CSV file that you got from the database manager. You need to
+carefully review the data columns to ensure it has what you need to answer your
+business question. The data is loaded below; use this data snippet along with the
+column descriptions in the metadata to guide you in identifying the important columns
+needed to complete this project.
+Review the metadata file with column descriptions (below).
